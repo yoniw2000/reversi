@@ -1,0 +1,288 @@
+C:\Users\user32\Desktop\newReversi\Reversi\bin\Debug\Reversi.exe
+C:\Users\user32\Desktop\newReversi\Reversi\bin\Debug\Reversi.pdb
+C:\Users\user32\Desktop\newReversi\Reversi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user32\Desktop\newReversi\Reversi\obj\x86\Debug\Reversi.Form1.resources
+C:\Users\user32\Desktop\newReversi\Reversi\obj\x86\Debug\Reversi.instructions.resources
+C:\Users\user32\Desktop\newReversi\Reversi\obj\x86\Debug\Reversi.Lose.resources
+C:\Users\user32\Desktop\newReversi\Reversi\obj\x86\Debug\Reversi.Properties.Resources.resources
+C:\Users\user32\Desktop\newReversi\Reversi\obj\x86\Debug\Reversi.Win.resources
+C:\Users\user32\Desktop\newReversi\Reversi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user32\Desktop\newReversi\Reversi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user32\Desktop\newReversi\Reversi\obj\x86\Debug\Reversi.exe
+C:\Users\user32\Desktop\newReversi\Reversi\obj\x86\Debug\Reversi.pdb
+F:\1newReversi\Reversi\obj\x86\Debug\Reversi.exe
+F:\1newReversi\Reversi\obj\x86\Debug\Reversi.pdb
+F:\1newReversi\Reversi\bin\Debug\Reversi.exe
+F:\1newReversi\Reversi\bin\Debug\Reversi.pdb
+F:\1newReversi\Reversi\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\1newReversi\Reversi\obj\x86\Debug\Reversi.Form1.resources
+F:\1newReversi\Reversi\obj\x86\Debug\Reversi.instructions.resources
+F:\1newReversi\Reversi\obj\x86\Debug\Reversi.Lose.resources
+F:\1newReversi\Reversi\obj\x86\Debug\Reversi.Properties.Resources.resources
+F:\1newReversi\Reversi\obj\x86\Debug\Reversi.Win.resources
+F:\1newReversi\Reversi\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\1newReversi\Reversi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user32\Desktop\1newReversi\Reversi\obj\x86\Debug\Reversi.exe
+C:\Users\user32\Desktop\1newReversi\Reversi\obj\x86\Debug\Reversi.pdb
+C:\Users\user32\Desktop\newwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww\Reversi\obj\x86\Debug\Reversi.exe
+C:\Users\user32\Desktop\newwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww\Reversi\obj\x86\Debug\Reversi.pdb
+C:\Users\user32\Desktop\newwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww\Reversi\bin\Debug\Reversi.exe
+C:\Users\user32\Desktop\newwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww\Reversi\bin\Debug\Reversi.pdb
+C:\Users\user32\Desktop\newwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww\Reversi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user32\Desktop\newwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww\Reversi\obj\x86\Debug\Reversi.Form1.resources
+C:\Users\user32\Desktop\newwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww\Reversi\obj\x86\Debug\Reversi.instructions.resources
+C:\Users\user32\Desktop\newwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww\Reversi\obj\x86\Debug\Reversi.Lose.resources
+C:\Users\user32\Desktop\newwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww\Reversi\obj\x86\Debug\Reversi.Properties.Resources.resources
+C:\Users\user32\Desktop\newwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww\Reversi\obj\x86\Debug\Reversi.Win.resources
+C:\Users\user32\Desktop\newwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww\Reversi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user32\Desktop\newwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww\Reversi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user32\Desktop\דבי חייבת לבדוק\Reversi\obj\x86\Debug\Reversi.exe
+C:\Users\user32\Desktop\דבי חייבת לבדוק\Reversi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user32\Desktop\דבי חייבת לבדוק\Reversi\obj\x86\Debug\Reversi.Form1.resources
+C:\Users\user32\Desktop\דבי חייבת לבדוק\Reversi\obj\x86\Debug\Reversi.instructions.resources
+C:\Users\user32\Desktop\דבי חייבת לבדוק\Reversi\obj\x86\Debug\Reversi.Lose.resources
+C:\Users\user32\Desktop\דבי חייבת לבדוק\Reversi\obj\x86\Debug\Reversi.Properties.Resources.resources
+C:\Users\user32\Desktop\דבי חייבת לבדוק\Reversi\obj\x86\Debug\Reversi.Win.resources
+C:\Users\user32\Desktop\דבי חייבת לבדוק\Reversi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user32\Desktop\דבי חייבת לבדוק\Reversi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user32\Desktop\דבי חייבת לבדוק\Reversi\bin\Debug\Reversi.exe
+C:\Users\user32\Desktop\דבי חייבת לבדוק\Reversi\bin\Debug\Reversi.pdb
+C:\Users\user32\Desktop\דבי חייבת לבדוק\Reversi\obj\x86\Debug\Reversi.pdb
+F:\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.exe
+F:\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.pdb
+F:\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\bin\Debug\Reversi.exe
+F:\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\bin\Debug\Reversi.pdb
+F:\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.Form1.resources
+F:\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.instructions.resources
+F:\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.Lose.resources
+F:\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.Properties.Resources.resources
+F:\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.Win.resources
+F:\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.exe
+E:\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.pdb
+C:\Users\user\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.exe
+C:\Users\user\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.pdb
+C:\Users\user\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.Form1.resources
+C:\Users\user\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.instructions.resources
+C:\Users\user\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.Lose.resources
+C:\Users\user\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.Properties.Resources.resources
+C:\Users\user\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.Win.resources
+C:\Users\user\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.csproj.GenerateResource.Cache
+E:\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.csprojResolveAssemblyReference.cache
+E:\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.Form1.resources
+E:\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.instructions.resources
+E:\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.Lose.resources
+E:\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.Properties.Resources.resources
+E:\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.Win.resources
+E:\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.csproj.GenerateResource.Cache
+C:\Users\user32\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.exe
+C:\Users\user32\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.pdb
+C:\Users\user32\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.csprojResolveAssemblyReference.cache
+C:\Users\user32\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.Form1.resources
+C:\Users\user32\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.instructions.resources
+C:\Users\user32\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.Lose.resources
+C:\Users\user32\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.Properties.Resources.resources
+C:\Users\user32\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.Win.resources
+C:\Users\user32\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.csproj.GenerateResource.Cache
+C:\Users\user32\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\bin\Debug\Reversi.exe
+C:\Users\user32\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\bin\Debug\Reversi.pdb
+C:\Users\user32\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\bin\Debug\Unit4.dll
+C:\Users\user32\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.exe
+C:\Users\user32\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.pdb
+C:\Users\user32\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\bin\Debug\Reversi.exe
+C:\Users\user32\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\bin\Debug\Reversi.pdb
+C:\Users\user32\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.csprojResolveAssemblyReference.cache
+C:\Users\user32\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.Form1.resources
+C:\Users\user32\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.instructions.resources
+C:\Users\user32\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.Lose.resources
+C:\Users\user32\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.Properties.Resources.resources
+C:\Users\user32\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.Win.resources
+C:\Users\user32\Desktop\דבי!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Reversi\obj\x86\Debug\Reversi.csproj.GenerateResource.Cache
+C:\Users\user32\Desktop\SCH!\Reversi\obj\x86\Debug\Reversi.exe
+C:\Users\user32\Desktop\SCH!\Reversi\obj\x86\Debug\Reversi.pdb
+C:\Users\user32\Desktop\SCH!\Reversi\bin\Debug\Reversi.exe
+C:\Users\user32\Desktop\SCH!\Reversi\bin\Debug\Reversi.pdb
+C:\Users\user32\Desktop\SCH!\Reversi\obj\x86\Debug\Reversi.csprojResolveAssemblyReference.cache
+C:\Users\user32\Desktop\SCH!\Reversi\obj\x86\Debug\Reversi.Form1.resources
+C:\Users\user32\Desktop\SCH!\Reversi\obj\x86\Debug\Reversi.instructions.resources
+C:\Users\user32\Desktop\SCH!\Reversi\obj\x86\Debug\Reversi.Lose.resources
+C:\Users\user32\Desktop\SCH!\Reversi\obj\x86\Debug\Reversi.Properties.Resources.resources
+C:\Users\user32\Desktop\SCH!\Reversi\obj\x86\Debug\Reversi.Win.resources
+C:\Users\user32\Desktop\SCH!\Reversi\obj\x86\Debug\Reversi.csproj.GenerateResource.Cache
+C:\Users\user24\Desktop\skr!\Reversi\obj\x86\Debug\Reversi.exe
+C:\Users\user24\Desktop\skr!\Reversi\obj\x86\Debug\Reversi.pdb
+C:\Users\user24\Desktop\skr!\Reversi\bin\Debug\Reversi.exe
+C:\Users\user24\Desktop\skr!\Reversi\bin\Debug\Reversi.pdb
+C:\Users\user24\Desktop\skr!\Reversi\obj\x86\Debug\Reversi.csprojResolveAssemblyReference.cache
+C:\Users\user24\Desktop\skr!\Reversi\obj\x86\Debug\Reversi.Form1.resources
+C:\Users\user24\Desktop\skr!\Reversi\obj\x86\Debug\Reversi.instructions.resources
+C:\Users\user24\Desktop\skr!\Reversi\obj\x86\Debug\Reversi.Lose.resources
+C:\Users\user24\Desktop\skr!\Reversi\obj\x86\Debug\Reversi.Properties.Resources.resources
+C:\Users\user24\Desktop\skr!\Reversi\obj\x86\Debug\Reversi.Win.resources
+C:\Users\user24\Desktop\skr!\Reversi\obj\x86\Debug\Reversi.csproj.GenerateResource.Cache
+C:\Users\user24\Desktop\skr!\Reversi\obj\x86\Debug\Reversi.Menue.resources
+C:\Users\user24\Desktop\1vs 1 גמוררררררררר\Reversi\obj\x86\Debug\Reversi.exe
+C:\Users\user24\Desktop\1vs 1 גמוררררררררר\Reversi\obj\x86\Debug\Reversi.pdb
+C:\Users\user24\Desktop\1vs 1 גמוררררררררר\Reversi\bin\Debug\Reversi.exe
+C:\Users\user24\Desktop\1vs 1 גמוררררררררר\Reversi\bin\Debug\Reversi.pdb
+C:\Users\user24\Desktop\1vs 1 גמוררררררררר\Reversi\obj\x86\Debug\Reversi.csprojResolveAssemblyReference.cache
+C:\Users\user24\Desktop\1vs 1 גמוררררררררר\Reversi\obj\x86\Debug\Reversi.Form1.resources
+C:\Users\user24\Desktop\1vs 1 גמוררררררררר\Reversi\obj\x86\Debug\Reversi.instructions.resources
+C:\Users\user24\Desktop\1vs 1 גמוררררררררר\Reversi\obj\x86\Debug\Reversi.Lose.resources
+C:\Users\user24\Desktop\1vs 1 גמוררררררררר\Reversi\obj\x86\Debug\Reversi.Menue.resources
+C:\Users\user24\Desktop\1vs 1 גמוררררררררר\Reversi\obj\x86\Debug\Reversi.Properties.Resources.resources
+C:\Users\user24\Desktop\1vs 1 גמוררררררררר\Reversi\obj\x86\Debug\Reversi.Win.resources
+C:\Users\user24\Desktop\1vs 1 גמוררררררררר\Reversi\obj\x86\Debug\Reversi.csproj.GenerateResource.Cache
+C:\Users\user24\Desktop\30.1\Reversi\obj\x86\Debug\Reversi.exe
+C:\Users\user24\Desktop\30.1\Reversi\obj\x86\Debug\Reversi.pdb
+C:\Users\user24\Desktop\30.1\Reversi\bin\Debug\Reversi.exe
+C:\Users\user24\Desktop\30.1\Reversi\bin\Debug\Reversi.pdb
+C:\Users\user24\Desktop\30.1\Reversi\obj\x86\Debug\Reversi.csprojResolveAssemblyReference.cache
+C:\Users\user24\Desktop\30.1\Reversi\obj\x86\Debug\Reversi.Form1.resources
+C:\Users\user24\Desktop\30.1\Reversi\obj\x86\Debug\Reversi.instructions.resources
+C:\Users\user24\Desktop\30.1\Reversi\obj\x86\Debug\Reversi.Lose.resources
+C:\Users\user24\Desktop\30.1\Reversi\obj\x86\Debug\Reversi.Menue.resources
+C:\Users\user24\Desktop\30.1\Reversi\obj\x86\Debug\Reversi.Properties.Resources.resources
+C:\Users\user24\Desktop\30.1\Reversi\obj\x86\Debug\Reversi.Win.resources
+C:\Users\user24\Desktop\30.1\Reversi\obj\x86\Debug\Reversi.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\30.1\Reversi\bin\Debug\Reversi.exe
+C:\Users\user\Desktop\30.1\Reversi\bin\Debug\Reversi.pdb
+C:\Users\user\Desktop\30.1\Reversi\obj\x86\Debug\Reversi.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\30.1\Reversi\obj\x86\Debug\Reversi.Form1.resources
+C:\Users\user\Desktop\30.1\Reversi\obj\x86\Debug\Reversi.instructions.resources
+C:\Users\user\Desktop\30.1\Reversi\obj\x86\Debug\Reversi.Lose.resources
+C:\Users\user\Desktop\30.1\Reversi\obj\x86\Debug\Reversi.Menue.resources
+C:\Users\user\Desktop\30.1\Reversi\obj\x86\Debug\Reversi.Properties.Resources.resources
+C:\Users\user\Desktop\30.1\Reversi\obj\x86\Debug\Reversi.Win.resources
+C:\Users\user\Desktop\30.1\Reversi\obj\x86\Debug\Reversi.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\30.1\Reversi\obj\x86\Debug\Reversi.exe
+C:\Users\user\Desktop\30.1\Reversi\obj\x86\Debug\Reversi.pdb
+C:\Users\user\Desktop\30.1\Reversi\obj\x86\Debug\Reversi.PC.resources
+C:\Users\user\Desktop\חזור אחורה\Reversi\obj\x86\Debug\Reversi.exe
+C:\Users\user\Desktop\חזור אחורה\Reversi\obj\x86\Debug\Reversi.pdb
+C:\Users\user\Desktop\חזור אחורה\Reversi\bin\Debug\Reversi.exe
+C:\Users\user\Desktop\חזור אחורה\Reversi\bin\Debug\Reversi.pdb
+C:\Users\user\Desktop\חזור אחורה\Reversi\obj\x86\Debug\Reversi.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\חזור אחורה\Reversi\obj\x86\Debug\Reversi.Form1.resources
+C:\Users\user\Desktop\חזור אחורה\Reversi\obj\x86\Debug\Reversi.instructions.resources
+C:\Users\user\Desktop\חזור אחורה\Reversi\obj\x86\Debug\Reversi.Lose.resources
+C:\Users\user\Desktop\חזור אחורה\Reversi\obj\x86\Debug\Reversi.Menue.resources
+C:\Users\user\Desktop\חזור אחורה\Reversi\obj\x86\Debug\Reversi.PC.resources
+C:\Users\user\Desktop\חזור אחורה\Reversi\obj\x86\Debug\Reversi.Properties.Resources.resources
+C:\Users\user\Desktop\חזור אחורה\Reversi\obj\x86\Debug\Reversi.Win.resources
+C:\Users\user\Desktop\חזור אחורה\Reversi\obj\x86\Debug\Reversi.csproj.GenerateResource.Cache
+F:\לא חזור אחורה\Reversi\obj\x86\Debug\Reversi.exe
+F:\לא חזור אחורה\Reversi\obj\x86\Debug\Reversi.pdb
+F:\לא חזור אחורה\Reversi\bin\Debug\Reversi.exe
+F:\לא חזור אחורה\Reversi\bin\Debug\Reversi.pdb
+F:\לא חזור אחורה\Reversi\obj\x86\Debug\Reversi.csprojResolveAssemblyReference.cache
+F:\לא חזור אחורה\Reversi\obj\x86\Debug\Reversi.Form1.resources
+F:\לא חזור אחורה\Reversi\obj\x86\Debug\Reversi.instructions.resources
+F:\לא חזור אחורה\Reversi\obj\x86\Debug\Reversi.Lose.resources
+F:\לא חזור אחורה\Reversi\obj\x86\Debug\Reversi.Menue.resources
+F:\לא חזור אחורה\Reversi\obj\x86\Debug\Reversi.PC.resources
+F:\לא חזור אחורה\Reversi\obj\x86\Debug\Reversi.Properties.Resources.resources
+F:\לא חזור אחורה\Reversi\obj\x86\Debug\Reversi.Win.resources
+F:\לא חזור אחורה\Reversi\obj\x86\Debug\Reversi.csproj.GenerateResource.Cache
+C:\Users\user31\Desktop\לא חזור אחורה\Reversi\obj\x86\Debug\Reversi.exe
+C:\Users\user31\Desktop\לא חזור אחורה\Reversi\obj\x86\Debug\Reversi.pdb
+C:\Users\user31\Desktop\לא חזור אחורה\Reversi\bin\Debug\Reversi.exe
+C:\Users\user31\Desktop\לא חזור אחורה\Reversi\bin\Debug\Reversi.pdb
+C:\Users\user31\Desktop\לא חזור אחורה\Reversi\obj\x86\Debug\Reversi.csprojResolveAssemblyReference.cache
+C:\Users\user31\Desktop\לא חזור אחורה\Reversi\obj\x86\Debug\Reversi.Form1.resources
+C:\Users\user31\Desktop\לא חזור אחורה\Reversi\obj\x86\Debug\Reversi.instructions.resources
+C:\Users\user31\Desktop\לא חזור אחורה\Reversi\obj\x86\Debug\Reversi.Lose.resources
+C:\Users\user31\Desktop\לא חזור אחורה\Reversi\obj\x86\Debug\Reversi.Menue.resources
+C:\Users\user31\Desktop\לא חזור אחורה\Reversi\obj\x86\Debug\Reversi.PC.resources
+C:\Users\user31\Desktop\לא חזור אחורה\Reversi\obj\x86\Debug\Reversi.Properties.Resources.resources
+C:\Users\user31\Desktop\לא חזור אחורה\Reversi\obj\x86\Debug\Reversi.Win.resources
+C:\Users\user31\Desktop\לא חזור אחורה\Reversi\obj\x86\Debug\Reversi.csproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\יהונתן ויין גמוררררר עבודה 100!!!!\Reversi\bin\Debug\Reversi.exe
+C:\Users\Owner\Desktop\יהונתן ויין גמוררררר עבודה 100!!!!\Reversi\bin\Debug\Reversi.pdb
+C:\Users\Owner\Desktop\יהונתן ויין גמוררררר עבודה 100!!!!\Reversi\obj\x86\Debug\Reversi.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\יהונתן ויין גמוררררר עבודה 100!!!!\Reversi\obj\x86\Debug\Reversi.Form1.resources
+C:\Users\Owner\Desktop\יהונתן ויין גמוררררר עבודה 100!!!!\Reversi\obj\x86\Debug\Reversi.instructions.resources
+C:\Users\Owner\Desktop\יהונתן ויין גמוררררר עבודה 100!!!!\Reversi\obj\x86\Debug\Reversi.Lose.resources
+C:\Users\Owner\Desktop\יהונתן ויין גמוררררר עבודה 100!!!!\Reversi\obj\x86\Debug\Reversi.Menue.resources
+C:\Users\Owner\Desktop\יהונתן ויין גמוררררר עבודה 100!!!!\Reversi\obj\x86\Debug\Reversi.PC.resources
+C:\Users\Owner\Desktop\יהונתן ויין גמוררררר עבודה 100!!!!\Reversi\obj\x86\Debug\Reversi.Properties.Resources.resources
+C:\Users\Owner\Desktop\יהונתן ויין גמוררררר עבודה 100!!!!\Reversi\obj\x86\Debug\Reversi.Win.resources
+C:\Users\Owner\Desktop\יהונתן ויין גמוררררר עבודה 100!!!!\Reversi\obj\x86\Debug\Reversi.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\יהונתן ויין גמוררררר עבודה 100!!!!\Reversi\obj\x86\Debug\Reversi.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\יהונתן ויין גמוררררר עבודה 100!!!!\Reversi\obj\x86\Debug\Reversi.csproj.CopyComplete
+C:\Users\Owner\Desktop\יהונתן ויין גמוררררר עבודה 100!!!!\Reversi\obj\x86\Debug\Reversi.exe
+C:\Users\Owner\Desktop\יהונתן ויין גמוררררר עבודה 100!!!!\Reversi\obj\x86\Debug\Reversi.pdb
+C:\Users\Owner\Desktop\29k5k18 עבודה באמת מוכנה רברסי\Reversi\bin\Debug\Reversi.exe
+C:\Users\Owner\Desktop\29k5k18 עבודה באמת מוכנה רברסי\Reversi\bin\Debug\Reversi.pdb
+C:\Users\Owner\Desktop\29k5k18 עבודה באמת מוכנה רברסי\Reversi\obj\x86\Debug\Reversi.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\29k5k18 עבודה באמת מוכנה רברסי\Reversi\obj\x86\Debug\Reversi.Form1.resources
+C:\Users\Owner\Desktop\29k5k18 עבודה באמת מוכנה רברסי\Reversi\obj\x86\Debug\Reversi.instructions.resources
+C:\Users\Owner\Desktop\29k5k18 עבודה באמת מוכנה רברסי\Reversi\obj\x86\Debug\Reversi.Lose.resources
+C:\Users\Owner\Desktop\29k5k18 עבודה באמת מוכנה רברסי\Reversi\obj\x86\Debug\Reversi.Menue.resources
+C:\Users\Owner\Desktop\29k5k18 עבודה באמת מוכנה רברסי\Reversi\obj\x86\Debug\Reversi.PC.resources
+C:\Users\Owner\Desktop\29k5k18 עבודה באמת מוכנה רברסי\Reversi\obj\x86\Debug\Reversi.Properties.Resources.resources
+C:\Users\Owner\Desktop\29k5k18 עבודה באמת מוכנה רברסי\Reversi\obj\x86\Debug\Reversi.Win.resources
+C:\Users\Owner\Desktop\29k5k18 עבודה באמת מוכנה רברסי\Reversi\obj\x86\Debug\Reversi.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\29k5k18 עבודה באמת מוכנה רברסי\Reversi\obj\x86\Debug\Reversi.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\29k5k18 עבודה באמת מוכנה רברסי\Reversi\obj\x86\Debug\Reversi.csproj.CopyComplete
+C:\Users\Owner\Desktop\29k5k18 עבודה באמת מוכנה רברסי\Reversi\obj\x86\Debug\Reversi.exe
+C:\Users\Owner\Desktop\29k5k18 עבודה באמת מוכנה רברסי\Reversi\obj\x86\Debug\Reversi.pdb
+C:\Users\Owner\Desktop\רברסי שנה שם\Reversi\obj\x86\Debug\Reversi.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\רברסי שנה שם\Reversi\obj\x86\Debug\Reversi.Form1.resources
+C:\Users\Owner\Desktop\רברסי שנה שם\Reversi\obj\x86\Debug\Reversi.instructions.resources
+C:\Users\Owner\Desktop\רברסי שנה שם\Reversi\obj\x86\Debug\Reversi.Lose.resources
+C:\Users\Owner\Desktop\רברסי שנה שם\Reversi\obj\x86\Debug\Reversi.Menue.resources
+C:\Users\Owner\Desktop\רברסי שנה שם\Reversi\obj\x86\Debug\Reversi.PC.resources
+C:\Users\Owner\Desktop\רברסי שנה שם\Reversi\obj\x86\Debug\Reversi.Properties.Resources.resources
+C:\Users\Owner\Desktop\רברסי שנה שם\Reversi\obj\x86\Debug\Reversi.Win.resources
+C:\Users\Owner\Desktop\רברסי שנה שם\Reversi\obj\x86\Debug\Reversi.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\רברסי שנה שם\Reversi\obj\x86\Debug\Reversi.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\רברסי שנה שם\Reversi\obj\x86\Debug\Reversi.exe
+C:\Users\Owner\Desktop\רברסי שנה שם\Reversi\obj\x86\Debug\Reversi.pdb
+C:\Users\Owner\Desktop\רברסי שנה שם\Reversi\bin\Debug\Reversi.exe
+C:\Users\Owner\Desktop\רברסי שנה שם\Reversi\bin\Debug\Reversi.pdb
+C:\Users\Owner\Desktop\רברסי שנה שם\Reversi\obj\x86\Debug\Reversi.csproj.CopyComplete
+C:\Users\user\Desktop\רברסי שנה שם מוכן\Reversi\obj\x86\Debug\Reversi.exe
+C:\Users\user\Desktop\רברסי שנה שם מוכן\Reversi\obj\x86\Debug\Reversi.pdb
+C:\Users\user\Desktop\רברסי שנה שם מוכן\Reversi\bin\Debug\Reversi.exe
+C:\Users\user\Desktop\רברסי שנה שם מוכן\Reversi\bin\Debug\Reversi.pdb
+C:\Users\user\Desktop\רברסי שנה שם מוכן\Reversi\obj\x86\Debug\Reversi.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\רברסי שנה שם מוכן\Reversi\obj\x86\Debug\Reversi.Form1.resources
+C:\Users\user\Desktop\רברסי שנה שם מוכן\Reversi\obj\x86\Debug\Reversi.instructions.resources
+C:\Users\user\Desktop\רברסי שנה שם מוכן\Reversi\obj\x86\Debug\Reversi.Lose.resources
+C:\Users\user\Desktop\רברסי שנה שם מוכן\Reversi\obj\x86\Debug\Reversi.Menue.resources
+C:\Users\user\Desktop\רברסי שנה שם מוכן\Reversi\obj\x86\Debug\Reversi.PC.resources
+C:\Users\user\Desktop\רברסי שנה שם מוכן\Reversi\obj\x86\Debug\Reversi.Properties.Resources.resources
+C:\Users\user\Desktop\רברסי שנה שם מוכן\Reversi\obj\x86\Debug\Reversi.Win.resources
+C:\Users\user\Desktop\רברסי שנה שם מוכן\Reversi\obj\x86\Debug\Reversi.csproj.GenerateResource.Cache
+C:\Users\user32\Desktop\רברסי הגירסא הסופית באמת תלחץ אלי\Reversi\obj\x86\Debug\Reversi.exe
+C:\Users\user32\Desktop\רברסי הגירסא הסופית באמת תלחץ אלי\Reversi\obj\x86\Debug\Reversi.pdb
+C:\Users\user32\Desktop\רברסי הגירסא הסופית באמת תלחץ אלי\Reversi\bin\Debug\Reversi.exe
+C:\Users\user32\Desktop\רברסי הגירסא הסופית באמת תלחץ אלי\Reversi\bin\Debug\Reversi.pdb
+C:\Users\user32\Desktop\רברסי הגירסא הסופית באמת תלחץ אלי\Reversi\obj\x86\Debug\Reversi.csprojResolveAssemblyReference.cache
+C:\Users\user32\Desktop\רברסי הגירסא הסופית באמת תלחץ אלי\Reversi\obj\x86\Debug\Reversi.Form1.resources
+C:\Users\user32\Desktop\רברסי הגירסא הסופית באמת תלחץ אלי\Reversi\obj\x86\Debug\Reversi.instructions.resources
+C:\Users\user32\Desktop\רברסי הגירסא הסופית באמת תלחץ אלי\Reversi\obj\x86\Debug\Reversi.Lose.resources
+C:\Users\user32\Desktop\רברסי הגירסא הסופית באמת תלחץ אלי\Reversi\obj\x86\Debug\Reversi.Menue.resources
+C:\Users\user32\Desktop\רברסי הגירסא הסופית באמת תלחץ אלי\Reversi\obj\x86\Debug\Reversi.PC.resources
+C:\Users\user32\Desktop\רברסי הגירסא הסופית באמת תלחץ אלי\Reversi\obj\x86\Debug\Reversi.Properties.Resources.resources
+C:\Users\user32\Desktop\רברסי הגירסא הסופית באמת תלחץ אלי\Reversi\obj\x86\Debug\Reversi.Win.resources
+C:\Users\user32\Desktop\רברסי הגירסא הסופית באמת תלחץ אלי\Reversi\obj\x86\Debug\Reversi.csproj.GenerateResource.Cache
+C:\Users\yoni\Desktop\עבודות משחקי c#\רברסי הגירסא הסופית באמת תלחץ אלי עם ניצחון\Reversi\bin\Debug\Reversi.exe
+C:\Users\yoni\Desktop\עבודות משחקי c#\רברסי הגירסא הסופית באמת תלחץ אלי עם ניצחון\Reversi\bin\Debug\Reversi.pdb
+C:\Users\yoni\Desktop\עבודות משחקי c#\רברסי הגירסא הסופית באמת תלחץ אלי עם ניצחון\Reversi\obj\x86\Debug\Reversi.csprojAssemblyReference.cache
+C:\Users\yoni\Desktop\עבודות משחקי c#\רברסי הגירסא הסופית באמת תלחץ אלי עם ניצחון\Reversi\obj\x86\Debug\Reversi.Form1.resources
+C:\Users\yoni\Desktop\עבודות משחקי c#\רברסי הגירסא הסופית באמת תלחץ אלי עם ניצחון\Reversi\obj\x86\Debug\Reversi.instructions.resources
+C:\Users\yoni\Desktop\עבודות משחקי c#\רברסי הגירסא הסופית באמת תלחץ אלי עם ניצחון\Reversi\obj\x86\Debug\Reversi.Lose.resources
+C:\Users\yoni\Desktop\עבודות משחקי c#\רברסי הגירסא הסופית באמת תלחץ אלי עם ניצחון\Reversi\obj\x86\Debug\Reversi.Menue.resources
+C:\Users\yoni\Desktop\עבודות משחקי c#\רברסי הגירסא הסופית באמת תלחץ אלי עם ניצחון\Reversi\obj\x86\Debug\Reversi.PC.resources
+C:\Users\yoni\Desktop\עבודות משחקי c#\רברסי הגירסא הסופית באמת תלחץ אלי עם ניצחון\Reversi\obj\x86\Debug\Reversi.Properties.Resources.resources
+C:\Users\yoni\Desktop\עבודות משחקי c#\רברסי הגירסא הסופית באמת תלחץ אלי עם ניצחון\Reversi\obj\x86\Debug\Reversi.Win.resources
+C:\Users\yoni\Desktop\עבודות משחקי c#\רברסי הגירסא הסופית באמת תלחץ אלי עם ניצחון\Reversi\obj\x86\Debug\Reversi.csproj.GenerateResource.cache
+C:\Users\yoni\Desktop\עבודות משחקי c#\רברסי הגירסא הסופית באמת תלחץ אלי עם ניצחון\Reversi\obj\x86\Debug\Reversi.csproj.CoreCompileInputs.cache
+C:\Users\yoni\Desktop\עבודות משחקי c#\רברסי הגירסא הסופית באמת תלחץ אלי עם ניצחון\Reversi\obj\x86\Debug\Reversi.csproj.CopyComplete
+C:\Users\yoni\Desktop\עבודות משחקי c#\רברסי הגירסא הסופית באמת תלחץ אלי עם ניצחון\Reversi\obj\x86\Debug\Reversi.exe
+C:\Users\yoni\Desktop\עבודות משחקי c#\רברסי הגירסא הסופית באמת תלחץ אלי עם ניצחון\Reversi\obj\x86\Debug\Reversi.pdb
